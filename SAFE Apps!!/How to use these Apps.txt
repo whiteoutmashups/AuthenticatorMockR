@@ -1,0 +1,10 @@
+
+Hi! Glad you're trying out the new SAFE Authenticator Browser with offline Mock-Routing!
+
+These are all the apps that are built to work with Authenticator so far. Only these 3.
+
+I haven't been able to get any of them to work as expected yet, but if you want to have a go, there are instructions in each folder's README.md that you can open with a text editor and read and try.
+
+I already did the "npm install" part so if you're comfortable with command line, you should just be able to "cd" into each folder and try "npm start" on each one. 
+
+If that doesn't work, use the instructions in the README.md 's. Enjoy!

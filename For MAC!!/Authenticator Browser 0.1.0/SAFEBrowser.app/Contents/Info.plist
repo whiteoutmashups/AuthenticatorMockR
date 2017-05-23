@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>BuildMachineOSBuild</key>
+    <string>15E65</string>
+    <key>CFBundleDisplayName</key>
+    <string>SAFEBrowser</string>
+    <key>CFBundleExecutable</key>
+    <string>SAFEBrowser</string>
+    <key>CFBundleIconFile</key>
+    <string>SAFEBrowser.icns</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.electron.safebrowser</string>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+    <key>CFBundleName</key>
+    <string>SAFEBrowser</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>0.1.0</string>
+    <key>CFBundleVersion</key>
+    <string>0.1.0</string>
+    <key>DTSDKBuild</key>
+    <string>14D125</string>
+    <key>DTSDKName</key>
+    <string>macosx10.1010.10</string>
+    <key>DTXcode</key>
+    <string>0721</string>
+    <key>DTXcodeBuild</key>
+    <string>7C1002</string>
+    <key>LSApplicationCategoryType</key>
+    <string>public.app-category.productivity</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>10.9.0</string>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+    <key>NSMainNibFile</key>
+    <string>MainMenu</string>
+    <key>NSPrincipalClass</key>
+    <string>AtomApplication</string>
+    <key>NSSupportsAutomaticGraphicsSwitching</key>
+    <true/>
+    <key>CFBundleURLTypes</key>
+    <array>
+      <dict>
+        <key>CFBundleURLName</key>
+        <string>SAFE Network URL</string>
+        <key>CFBundleURLSchemes</key>
+        <array>
+          <string>safe</string>
+          <string>safe-auth</string>
+        </array>
+      </dict>
+    </array>
+    <key>NSHumanReadableCopyright</key>
+    <string>© 2016, Josh Wilson</string>
+  </dict>
+</plist>
